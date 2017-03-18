@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need 
+to do it?
+
+I create a hidden .git folder. I need it to store all my repo-
+sitory data.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is for you to store the files that are ready for commitment to the repository while working directory is where you modify your files. Staging area is a buffer for you to make your final decision before you do your commitment.
