@@ -7,3 +7,21 @@ sitory data.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is for you to store the files that are ready for commitment to the repository while working directory is where you modify your files. Staging area is a buffer for you to make your final decision before you do your commitment.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I put all the files that blong to one logical change into the staging area, and then commit them together
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can help you experiment new feasures without lost the main feasures.
+
+How do the diagrams help you visualize the branch strcture?
+it was great!
+
+What is the result of merging two branches together? why do we represent it in the diagram the way we do?
+it's more convenient to do this way.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+It is much more convenient and helpful and pleasant for git to do so.
