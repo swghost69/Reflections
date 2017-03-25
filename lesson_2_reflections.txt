@@ -25,3 +25,7 @@ it's more convenient to do this way.
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 
 It is much more convenient and helpful and pleasant for git to do so.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Sometime, I might have already done some job locally, if I make Git automatically stay up-to-date with remote repository, it will destroy my local jobs.
